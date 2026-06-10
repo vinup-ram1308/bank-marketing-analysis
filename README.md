@@ -155,7 +155,7 @@ bank-marketing-analysis/
 
 **1. Clone the repository**
 ```bash
-git clone https://github.com/[your-username]/bank-marketing-analysis.git
+git clone https://github.com/vinup-ram1308/bank-marketing-analysis.git
 cd bank-marketing-analysis
 ```
 
