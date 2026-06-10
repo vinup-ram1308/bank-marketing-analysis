@@ -191,6 +191,7 @@ Open dashboard/bank_marketing_dashboard.pbix in Power BI Desktop
 ## 👤 Author
 
 **Vinup Ram S A**
+
 Risk Consulting Specialist → Aspiring Data Analyst
 📍 Bengaluru, India
 
