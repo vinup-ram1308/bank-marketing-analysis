@@ -1,0 +1,130 @@
+{
+  "name": "Bank Marketing Dark Theme",
+  "dataColors": [
+    "#00D4C8",
+    "#E8547A",
+    "#4FC3F7",
+    "#81C784",
+    "#FFB74D",
+    "#CE93D8",
+    "#4DB6AC",
+    "#F06292"
+  ],
+  "background": "#1C2B2B",
+  "foreground": "#00D4C8",
+  "tableAccent": "#00D4C8",
+  "visualStyles": {
+    "*": {
+      "*": {
+        "background": [{"color": {"solid": {"color": "#1C2B2B"}}}],
+        "fontColor": [{"color": {"solid": {"color": "#FFFFFF"}}}],
+        "gridlineColor": [{"color": {"solid": {"color": "#2D4A45"}}}]
+      }
+    },
+    "card": {
+      "*": {
+        "background": [{"color": {"solid": {"color": "#1A3C34"}}}],
+        "calloutValue": [{
+          "color": {"solid": {"color": "#00D4C8"}},
+          "fontSize": 36,
+          "fontBold": true
+        }],
+        "categoryLabel": [{
+          "color": {"solid": {"color": "#FFFFFF"}},
+          "fontSize": 11
+        }],
+        "border": [{"show": false}]
+      }
+    },
+    "columnChart": {
+      "*": {
+        "plotArea": [{"background": {"color": {"solid": {"color": "#1C2B2B"}}}}],
+        "categoryAxis": [{
+          "labelColor": {"solid": {"color": "#FFFFFF"}},
+          "titleColor": {"solid": {"color": "#FFFFFF"}}
+        }],
+        "valueAxis": [{
+          "labelColor": {"solid": {"color": "#FFFFFF"}},
+          "titleColor": {"solid": {"color": "#FFFFFF"}},
+          "gridlineColor": {"solid": {"color": "#2D4A45"}}
+        }],
+        "title": [{
+          "fontColor": {"solid": {"color": "#FFFFFF"}},
+          "fontSize": 12,
+          "fontBold": true
+        }],
+        "dataLabels": [{
+          "color": {"solid": {"color": "#FFFFFF"}},
+          "fontSize": 9
+        }]
+      }
+    },
+    "barChart": {
+      "*": {
+        "plotArea": [{"background": {"color": {"solid": {"color": "#1C2B2B"}}}}],
+        "categoryAxis": [{
+          "labelColor": {"solid": {"color": "#FFFFFF"}},
+          "titleColor": {"solid": {"color": "#FFFFFF"}}
+        }],
+        "valueAxis": [{
+          "labelColor": {"solid": {"color": "#FFFFFF"}},
+          "titleColor": {"solid": {"color": "#FFFFFF"}},
+          "gridlineColor": {"solid": {"color": "#2D4A45"}}
+        }],
+        "title": [{
+          "fontColor": {"solid": {"color": "#FFFFFF"}},
+          "fontSize": 12,
+          "fontBold": true
+        }],
+        "dataLabels": [{
+          "color": {"solid": {"color": "#FFFFFF"}},
+          "fontSize": 9
+        }]
+      }
+    },
+    "lineChart": {
+      "*": {
+        "plotArea": [{"background": {"color": {"solid": {"color": "#1C2B2B"}}}}],
+        "categoryAxis": [{
+          "labelColor": {"solid": {"color": "#FFFFFF"}},
+          "titleColor": {"solid": {"color": "#FFFFFF"}}
+        }],
+        "valueAxis": [{
+          "labelColor": {"solid": {"color": "#FFFFFF"}},
+          "titleColor": {"solid": {"color": "#FFFFFF"}},
+          "gridlineColor": {"solid": {"color": "#2D4A45"}}
+        }],
+        "title": [{
+          "fontColor": {"solid": {"color": "#FFFFFF"}},
+          "fontSize": 12,
+          "fontBold": true
+        }]
+      }
+    },
+    "clusteredBarChart": {
+      "*": {
+        "plotArea": [{"background": {"color": {"solid": {"color": "#1C2B2B"}}}}],
+        "categoryAxis": [{
+          "labelColor": {"solid": {"color": "#FFFFFF"}},
+          "titleColor": {"solid": {"color": "#FFFFFF"}}
+        }],
+        "valueAxis": [{
+          "labelColor": {"solid": {"color": "#FFFFFF"}},
+          "titleColor": {"solid": {"color": "#FFFFFF"}},
+          "gridlineColor": {"solid": {"color": "#2D4A45"}}
+        }],
+        "title": [{
+          "fontColor": {"solid": {"color": "#FFFFFF"}},
+          "fontSize": 12,
+          "fontBold": true
+        }]
+      }
+    },
+    "textbox": {
+      "*": {
+        "background": [{"color": {"solid": {"color": "#1A3C34"}}}],
+        "fontColor": [{"color": {"solid": {"color": "#FFFFFF"}}}]
+      }
+    }
+  }
+}
